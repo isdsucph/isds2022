@@ -2,7 +2,7 @@
 
 Git repo for the summer school course, Introduction to Social Data Science, at the Faculty for Social Sciences at University of Copenhagen (Summer 2022), see webpage [here](https://isdsucph.github.io/isds2022/).
 
-Previous versions of the course material be seen here:  [2016](https://github.com/sebastianbarfort/sds_summer), [2017](https://github.com/abjer/sds2017), [2018](https://github.com/abjer/sds), [2019](https://github.com/abjer/sds2019), [2020](https://github.com/abjer/isds2020). [2021](https://github.com/isdsucph/isds2021). Note that in 2016 the summer school was run mainly by Sebastian Barfort teaching in R.
+Previous versions of the course material be seen here: [2016](https://github.com/sebastianbarfort/sds_summer), [2017](https://github.com/abjer/sds2017), [2018](https://github.com/abjer/sds), [2019](https://github.com/abjer/sds2019), [2020](https://github.com/abjer/isds2020). [2021](https://github.com/isdsucph/isds2021). Note that in 2016 the summer school was run mainly by Sebastian Barfort teaching in R.
 
 ## License
 
