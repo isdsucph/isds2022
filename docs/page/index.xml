@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Intro to Social Data Science</title>
+    <link>https://isdsucph.github.io/isds2022/page/</link>
+    <description>Recent content in Pages on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course readings</title>
+      <link>https://isdsucph.github.io/isds2022/page/readings/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/page/readings/</guid>
+      <description>Textbook for general introduction to social data science:
+Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here. Textbooks for data science in Python
+Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML] Preparation and Assignment 0 The course begin with your preparation for the teaching. This consists in Assignment 0 which is a learning module and assignment together.</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://isdsucph.github.io/isds2022/page/timeplan/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place August 02-13, 2021, with additional supervision on August 17. Each day will generally contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+    <item>
+      <title>Practical info</title>
+      <link>https://isdsucph.github.io/isds2022/page/practical/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/page/practical/</guid>
+      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
+Place and time The course runs from August 2, 2021 to August 24. See timeplan for teaching schedule.
+The teaching format will be a mix of online and teaching on campus.
+All lectures will be online and consist of an on-demand part and live part where questions are answered. Lab/exercise classes will run both online and on-campus.</description>
+    </item>
+    
+  </channel>
+</rss>

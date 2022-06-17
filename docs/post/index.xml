@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Intro to Social Data Science</title>
+    <link>https://isdsucph.github.io/isds2022/post/</link>
+    <description>Recent content in Posts on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>https://isdsucph.github.io/isds2022/post/assignment/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/assignment/</guid>
+      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information. All assignments must be handed via Absalon here.
+Assignment 0: Available now, here. Deadline July 28 @ 12.00
+Assignment 1: Available August 3. Deadline August 6 @ 23.59
+Assignment 2: Available August 10. Deadline August 13 @ 23.59</description>
+    </item>
+    
+    <item>
+      <title>Exam project</title>
+      <link>https://isdsucph.github.io/isds2022/post/exam/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/exam/</guid>
+      <description>When the teaching in our course finishes you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 24 at 10 AM.
+In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://isdsucph.github.io/isds2022/post/install/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools.
+Python and Jupyter notebook A git client A github account We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
+    </item>
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://isdsucph.github.io/isds2022/post/jupyter/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells
+enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not same!</description>
+    </item>
+    
+  </channel>
+</rss>

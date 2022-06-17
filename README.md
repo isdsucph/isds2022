@@ -1,6 +1,16 @@
-MIT License
+# Social Data Science
 
-Copyright (c) 2022 isdsucph
+Git repo for the summer school course, Introduction to Social Data Science, at the Faculty for Social Sciences at University of Copenhagen (Summer 2021), see webpage [here](https://isdsucph.github.io/isds2021/).
+
+Previous versions of the course material be seen here:  [2016](https://github.com/sebastianbarfort/sds_summer), [2017](https://github.com/abjer/sds2017), [2018](https://github.com/abjer/sds), [2019](https://github.com/abjer/sds2019), [2020](https://github.com/abjer/isds2020). [2021](https://github.com/isdsucph/isds2021). Note that in 2016 the summer school was run mainly by Sebastian Barfort teaching in R.
+
+## License
+
+This project is released under the MIT License, which basically lets you do anything you want with my code as long as you provide attribution back to me and don’t hold me liable.
+
+### MIT License
+
+Copyright (c) 2022 Andreas Bjerre-Nielsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
