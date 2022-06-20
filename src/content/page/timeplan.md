@@ -1,6 +1,6 @@
 ---
 title: Timeplan
-date: 2022-06-17
+date: 2022-06-20
 markup: mmark
 ---
 
@@ -73,6 +73,7 @@ The complete schedule of sessions is listed below with title, lecturer and links
 - Jonas Skjold Raaschou-Pedersen (JSRP)
 - Mischa Annett Püschl Diemar (MAPD)
 - Magnus Lindgaard Nielsen (MLN)
+- Lasse Ramovic Laustrup (LRL)
 
 
 #### Download material using Github Desktop
