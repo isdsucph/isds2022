@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
     <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
-    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeplan</title>
+      <link>https://isdsucph.github.io/isds2022/page/timeplan/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place August 01-12, 2022, with additional supervision on August 16. Each day will generally contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
     <item>
       <title>Assignments</title>
       <link>https://isdsucph.github.io/isds2022/post/assignment/</link>
@@ -72,16 +82,6 @@ All lectures will be online and consist of an on-demand part and live part where
       <guid>https://isdsucph.github.io/isds2022/post/preparation/</guid>
       <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
 Install anaconda and other software Open Assignment 0 in Jupyter notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guideline below - start with a) and move to d) Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
-    </item>
-    
-    <item>
-      <title>Timeplan</title>
-      <link>https://isdsucph.github.io/isds2022/page/timeplan/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
-      <guid>https://isdsucph.github.io/isds2022/page/timeplan/</guid>
-      <description>This page contains a schedule of the teaching sessions. Most of the teaching will take place August 01-12, 2022, with additional supervision on August 16. Each day will generally contain one-two teaching sessions. Most sessions will follow the daily schedule below:
-Morning session (9-12): 9-10 Live lecture, 10-12 Notebook with integrated lecturing videos on technical aspects of the session + exercises Lunch break (12-13): Afternoon session (13-16): 13-14 Live lecture, 14-16 Notebook with integrated lecturing videos on technical aspects of the session + exercises Office hour, optional: 16-17 (booking system through Google Sheets, see link in the schedule below) The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
     </item>
     
     <item>
