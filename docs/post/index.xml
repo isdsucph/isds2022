@@ -7,7 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
     <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
-    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://isdsucph.github.io/isds2022/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>https://isdsucph.github.io/isds2022/post/install/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools.
+Python, Jupyter Notebook and JupyterLab A git client A github account We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python, Jupyter Notebook and JupyterLab Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
+    </item>
+    
+    <item>
+      <title>Preparation</title>
+      <link>https://isdsucph.github.io/isds2022/post/preparation/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://isdsucph.github.io/isds2022/post/preparation/</guid>
+      <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
+Install anaconda and other software Open the Assignment 0 notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guideline below - start with a) and move to d) Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
+    </item>
+    
     <item>
       <title>Assignments</title>
       <link>https://isdsucph.github.io/isds2022/post/assignment/</link>
@@ -28,27 +49,6 @@ Assignment 2: Available August 10. Deadline August 13 @ 23.59</description>
       <guid>https://isdsucph.github.io/isds2022/post/exam/</guid>
       <description>When the teaching in our course finishes you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs until August 23 at 10 AM.
 In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.</description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://isdsucph.github.io/isds2022/post/install/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
-      <guid>https://isdsucph.github.io/isds2022/post/install/</guid>
-      <description>This class will involve a lot of coding, for which you will need some basic tools.
-Python and Jupyter notebook A git client A github account We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
-Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
-    </item>
-    
-    <item>
-      <title>Preparation</title>
-      <link>https://isdsucph.github.io/isds2022/post/preparation/</link>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
-      <guid>https://isdsucph.github.io/isds2022/post/preparation/</guid>
-      <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
-Install anaconda and other software Open Assignment 0 in Jupyter notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guideline below - start with a) and move to d) Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
     </item>
     
     <item>

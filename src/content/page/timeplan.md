@@ -20,48 +20,48 @@ The complete schedule of sessions is listed below with title, lecturer and links
 
 <br />
 
-| Date   |                          Time | Title                                                 |   Teachers    | Material |
-| ------ | ----------------------------: | ----------------------------------------------------- | :-----------: | :------- |
-|        |                               | -------   Preparation  -------                        |               |          |
-| Jul 01 |                               | <font color="green">Assignment 0 posted</font>        |               |          |
-| Jul 28 |                         12:00 | <font color="red">Assignment 0 hand-in</font>         |               |          |
-|        |                               | ---------   Week 1  ---------                         |               |          |
-| Aug 01 |                          9-11 | 1a. Course welcome + intro to git and markdown        |  ABN/TGC/HFB  | TBA      |
-|        |                         11-12 | 1b. Meet group                                        |  TAs/TGC/HFB  |          |
-|        |                         13-16 | 2. Data Structuring 1                                 |   TGC & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA      |
-| Aug 02 |                          9-12 | 3. Data Structuring 2                                 |   TGC & TAs   | TBA      |
-|        |                         13-16 | 4. Plotting                                           |   TGC & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA      |
-|        |                         23:59 | <font color="green">Assignment 1 posted</font>        |      --       | TBA      |
-| Aug 03 |                          9-12 | 5. Strings, Queries and APIs                          |   TGC & TAs   | TBA      |
-|        |                         13-16 | 6. Scraping 1                                         |   HFB & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      HFB      | TBA      |
-| Aug 04 |                          9-12 | 7. Scraping 2                                         |   HFB & TAs   | TBA      |
-|        |                         12-13 | Office Hour                                           |      HFB      | TBA      |
-|        |                         13:59 | <font color="red">Fill in supervision sheet</font>    |      --       | TBA      |
-|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA      |
-| Aug 05 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC/HFB & TAs | TBA      |
-|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA      |
-| Aug 08 |                          9-12 | 8. Scraping 3                                         |   HFB & TAs   | TBA      |
-|        |                         13-16 | 9. Data Ethics                                        |   ABN & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      HFB      | TBA      |
-| Aug 09 |                          9-12 | 10. ML Introduction                                   |   TGC & TAs   | TBA      |
-|        |                         13-16 | 11. Regression and Regularization                     |   TGC & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA      |
-|        |                         23:59 | <font color="green">Assignment 2 posted</font>        |      --       | TBA      |
-| Aug 10 |                          9-12 | 12. Model Selection and Cross-validation              |   TGC & TAs   | TBA      |
-|        |                         13-16 | 13. Model Selection and Cross-validation              |   TGC & TAs   | TBA      |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA      |
-| Aug 11 |                          9-12 | 14. Text as Data                                      |   HFB & TAs    | TBA      |
-|        |                         12-13 | Office Hour                                           |      HFB       | TBA      |
-|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA      |
-| Aug 12 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC/HFB & TAs | TBA      |
-|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA      |
-|        |                         23:59 | <font color="red">Assignment 2 hand-in</font>         |               |          |
-|        | ---------   Week 3  --------- |                                                       |               |          |
-| Aug 15 |                         20:00 | <font color="red">Exam project description due</font> |               |          |
-| Aug 16 |                         10-12 | *Supervision 3* `*`                                   |               |          |
+| Date   |                          Time | Title                                                 |   Teachers    | Material                                                                            |
+| ------ | ----------------------------: | ----------------------------------------------------- | :-----------: | :---------------------------------------------------------------------------------- |
+|        |                               | -------   Preparation  -------                        |               |                                                                                     |
+| Jun 27 |                               | <font color="green">Assignment 0 posted</font>        |               | [nb](https://github.com/isdsucph/isds2022/blob/main/assignments/assignment_0.ipynb) |
+| Jul 28 |                         12:00 | <font color="red">Assignment 0 hand-in</font>         |               |                                                                                     |
+|        |                               | ---------   Week 1  ---------                         |               |                                                                                     |
+| Aug 01 |                          9-11 | 1a. Course welcome + intro to git and markdown        |  ABN/TGC/HFB  | TBA                                                                                 |
+|        |                         11-12 | 1b. Meet group                                        |  TAs/TGC/HFB  |                                                                                     |
+|        |                         13-16 | 2. Data Structuring 1                                 |   TGC & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                 |
+| Aug 02 |                          9-12 | 3. Data Structuring 2                                 |   TGC & TAs   | TBA                                                                                 |
+|        |                         13-16 | 4. Plotting                                           |   TGC & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                 |
+|        |                         23:59 | <font color="green">Assignment 1 posted</font>        |      --       | TBA                                                                                 |
+| Aug 03 |                          9-12 | 5. Strings, Queries and APIs                          |   TGC & TAs   | TBA                                                                                 |
+|        |                         13-16 | 6. Scraping 1                                         |   HFB & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      HFB      | TBA                                                                                 |
+| Aug 04 |                          9-12 | 7. Scraping 2                                         |   HFB & TAs   | TBA                                                                                 |
+|        |                         12-13 | Office Hour                                           |      HFB      | TBA                                                                                 |
+|        |                         13:59 | <font color="red">Fill in supervision sheet</font>    |      --       | TBA                                                                                 |
+|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                 |
+| Aug 05 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC/HFB & TAs | TBA                                                                                 |
+|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                 |
+| Aug 08 |                          9-12 | 8. Scraping 3                                         |   HFB & TAs   | TBA                                                                                 |
+|        |                         13-16 | 9. Data Ethics                                        |   ABN & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      HFB      | TBA                                                                                 |
+| Aug 09 |                          9-12 | 10. ML Introduction                                   |   TGC & TAs   | TBA                                                                                 |
+|        |                         13-16 | 11. Regression and Regularization                     |   TGC & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                 |
+|        |                         23:59 | <font color="green">Assignment 2 posted</font>        |      --       | TBA                                                                                 |
+| Aug 10 |                          9-12 | 12. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                 |
+|        |                         13-16 | 13. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                 |
+|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                 |
+| Aug 11 |                          9-12 | 14. Text as Data                                      |   HFB & TAs   | TBA                                                                                 |
+|        |                         12-13 | Office Hour                                           |      HFB      | TBA                                                                                 |
+|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                 |
+| Aug 12 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC/HFB & TAs | TBA                                                                                 |
+|        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                 |
+|        |                         23:59 | <font color="red">Assignment 2 hand-in</font>         |               |                                                                                     |
+|        | ---------   Week 3  --------- |                                                       |               |                                                                                     |
+| Aug 15 |                         20:00 | <font color="red">Exam project description due</font> |               |                                                                                     |
+| Aug 16 |                         10-12 | *Supervision 3* `*`                                   |               |                                                                                     |
 `*` : optional participation
 
 #### Main lecturers

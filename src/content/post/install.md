@@ -1,37 +1,38 @@
 ---
 title: Installation
-date: 2022-06-17
+date: 2022-06-27
 ---
 
 This class will involve a lot of coding, for which you will need some basic tools.
 
-1. [Python and Jupyter notebook](#python-and-jupyter-notebook)
+1. [Python, Jupyter Notebook and JupyterLab](#python-jupyter-notebook-and-jupyterlab)
 2. [A git client](#a-git-client)
 3. [A github account](#a-github-account)
 
 We will discuss these tools in much more detail in class, so don't worry if this is all new and perhaps a bit frightening right now.
 
 
-## Python and Jupyter notebook
+## Python, Jupyter Notebook and JupyterLab
 
-[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.7 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
+[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda](https://docs.anaconda.com/anaconda/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda with Python 3.9 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
 
 Anaconda can be downloaded [here](https://www.anaconda.com/distribution/#download-section), for Windows, Mac or Linux.
-If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:
+If you want to watch a step-by-step tutorial on how to install Anaconda for you machine see the guides here:
 
 - Install Anaconda for Windows by [following these steps](https://docs.anaconda.com/anaconda/install/windows/) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
 - Install Anaconda for Mac by [following these steps](https://docs.anaconda.com/anaconda/install/mac-os/) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
 
-Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
-simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](https://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
+Since the vast majority of our coding will be in the Python language, we will use an integrated development environment ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control, simplifying the coding process. All this is automatically included in Anaconda through [Jupyter](https://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter notebooks either through the classic Jupyter Notebook interface or JupyterLab (see below).
 
+[Project Jupyter](https://jupyter.org/) has an extended IDE, [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html), that works with Jupyter notebooks (`.ipynb` files) in the [same way](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) as the classic Jupyter Notebook interface does. The JupyterLab interface provides severable extensions on top of the classic notebook experience. Among others, it has a sidebar which contains a [file browser](https://jupyterlab.readthedocs.io/en/stable/user/files.html) for easier navigation of project files and a ready to use [dark mode theme](https://docs.qubole.com/en/latest/user-guide/notebooks-and-dashboards/notebooks/jupyter-notebooks/themes-jupy.html), see [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) for more features. As of 2022, the classic Jupyter Notebook interface will eventually be [replaced](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html#releases) by the newer JupyterLab interface. Therefore, it is recommended that one uses JupyterLab to work with the notebook files in this course. However, it is perfectly fine to use the classic Jupyter Notebook interface if one prefers.
 
 #### Verifying the installation
 
-After installation of Python please to execute a number of commands in the shell. You need to first open your local shell, this is the `Anaconda Prompt` on Windows or `terminal` on Linux/Mac. See details [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/). Once the shell is open type `python` - this will start Python. Once you have Python started please try the following two commands to verify that it's working.
+After installation of Python please execute a number of commands in your shell to check if everything is working. You need to first open your local shell, this is either the `Anaconda Prompt` (all operating systems), `cmd` on Windows or `terminal` on Linux/Mac. See details [here](https://docs.anaconda.com/anaconda/user-guide/getting-started/). Once the shell is open type `python` - this will start Python. Once you have Python started please check if the version of Python is at least 3.9. 
+Next, try the following two commands to verify that it's working.
 
 ```python
-1+2
+1 + 2
 >>> 3
 ```
 
@@ -48,12 +49,19 @@ or if conda does not support it directly use the more generic package manager:
 `pip install [name of package]`
 
 
-#### Using Jypyter notebook
-The [Jupyter Notebook App](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).
+#### Using notebooks through the classic Jypyter Notebook interface
+The [Jupyter Notebook App](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by typing the following either in the `Anaconda Prompt`, a terminal (on Mac/Linux) or cmd (on Windows).
 
 `jupyter notebook`
 
 This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
+
+#### Using notebooks through JypyterLab
+[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) can be launched by typing the following either in the `Anaconda Prompt`, a terminal (on Mac/Linux) or cmd (on Windows).
+
+`jupyter lab`
+
+This will launch a new browser window (or a new tab) showing a control panel similar to the classic Jupyter Notebook that, besides the same as the classic notebook interface, allows to browse the project files through the file browser. Note that the classic notebook interface can always be reached through JupyterLab by clicking on [Help] in the menu bar and then [Launch Classic Notebook]. 
 
 #### Getting friendly with Jupyter
 

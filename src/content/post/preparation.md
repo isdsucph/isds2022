@@ -1,6 +1,6 @@
 ---
 title: Preparation
-date: 2022-06-17
+date: 2022-06-27
 ---
 
 
@@ -9,7 +9,7 @@ date: 2022-06-17
 It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
 
 1. [Install anaconda and other software](/isds2022/post/install/)
-2. Open Assignment 0 in Jupyter notebook, [see this guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) on how to open and use a notebook
+2. Open the Assignment 0 notebook, [see this guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) on how to open and use a notebook
 3. Work on Assignment 0 - try to solve as much as possible
 4. When you get stuck then follow the trouble shooting guideline below - start with a) and move to d)
   <ol type="a">
@@ -32,4 +32,4 @@ group members will be randomly selected among those who performed approximately 
 
 The assignment comes with built-in teaching material and references for learning more if you need more clarification. If many of you are struggling with the assignment, we will offer an online workshop before the submission deadline, where we cover the skills required to answer this problem set.
 
-Remember to ask questions through the GitHub issues in our [ISDS2022 repository](https://github.com/isdsucph/isds2022/issues)!
+Remember to ask questions through GitHub issues in our [ISDS2022 repository](https://github.com/isdsucph/isds2022/issues)!
