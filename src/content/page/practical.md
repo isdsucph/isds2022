@@ -9,17 +9,13 @@ This page contains information about the course groups as well as information on
 
 The course runs from August 1, 2022 to August 23. See [timeplan](/isds2022/page/timeplan/) for teaching schedule.
 
-The teaching format will be a mix of online and teaching on campus.
-- All lectures will be online and consist of an on-demand part and live part where questions are answered.
-- Lab/exercise classes will run both online and on-campus. Students must choose which part they want to attend.
 - All lectures and lab/exercise classes on campus will take place in [CSS 35-01-05](https://socialsciences.ku.dk/contact/howtofindus/). 
-- Zoom link for online lectures and lab/exercise classes can be found [here](https://ucph-ku.zoom.us/j/64901191619). 
 
 # Groups
 
-You have two options of being assigned to a group. The first is that you report the group to us and where all members consent. The second option is that if we have not heard from you then you will be assigned to a group by us. We will communicate the groups to you on the first day we will assign you to a group. Details about the two options for assignment is found below.
-1. In order to pre-register a group ***only one*** member should write an email to [Jonas Skjold Raaschou-Pedersen](mailto:jonas.pedersen@econ.ku.dk) expressing this. The deadline for sending the information is Friday July 30 at 12.00. The email should only say that all members consented and whether or not you want to participate in lab classes on campus or online. In order to be valid all group members must be recipients of the email using their KU email. Groups of only two people have the option of joining another group of two.  new people as this course has a broad group of students. The groups will be used for handing in Assignments 1 and 2 and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
-2. The group forming by us will be based on two factors. First, whether or not you prefer online or on-campus lab classes, we only match people who attend the same kind of lab class. Second, given that the first criteria we randomly assign you to other students who performed similar to you in Assignment 0, see below.
+You have two options of being assigned to a group. The first is that you report the group to us and where all members consent. The second option is that if we have not heard from you then you will be assigned to a group by us. We will communicate the groups to you on the first day. Details about the two options for assignment is found below.
+1. In order to pre-register a group ***only one*** member should write an email to [Jonas Skjold Raaschou-Pedersen](mailto:jonas.pedersen@econ.ku.dk) expressing this. The deadline for sending the information is Friday July 30 at 12.00. The email should only say that all members consented. In order to be valid all group members must be recipients of the email using their KU email. Groups of only two people have the option of joining another group of two new people as this course has a broad group of students. The groups will be used for handing in Assignments 1 and 2 and the final exam projects, see below. If you are too few people in the group we will reassign you to another group.
+2. If you do not have a pre-registered group or are two in a pre-registered group and explicitly note in the e-mail that you are looking for more members, we will randomly assign you to other students who performed similar in Assignment 0, see below. 
 
 
 # Mandatory assignments

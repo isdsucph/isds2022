@@ -53,5 +53,5 @@ Inside a function you can view the function's docstring by pressing `SHIFT + TAB
 DataCamp has some excellent resources for picking up additional Jupyter skills. Their cheatsheet, available [here](
 https://www.datacamp.com/community/blog/jupyter-notebook-cheat-sheet), is excellent to print out and have is a coding aid. For a comprehensive overview of Jupyter to check out the official documentation, [see here](http://jupyter.readthedocs.io/en/latest/).
 
-If you have other relevant stuff that you wish to share, make a pull request in our course page's [GitHub repo](https://github.com/isdsucph/isds2021).
+If you have other relevant stuff that you wish to share, make a pull request in our course page's [GitHub repo](https://github.com/isdsucph/isds2022).
 

@@ -71,7 +71,7 @@ The complete schedule of sessions is listed below with title, lecturer and links
 
 #### Teaching assistants (TAs)
 - Jonas Skjold Raaschou-Pedersen (JSRP)
-- Mischa Annett Püschl Diemar (MAPD)
+- Mischa Püschl Bennedsen (MPB)
 - Magnus Lindgaard Nielsen (MLN)
 - Lasse Ramovic Laustrup (LRL)
 
