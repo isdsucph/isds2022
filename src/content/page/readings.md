@@ -40,6 +40,7 @@ We introduce the course and provide an overview of logistics. We also introduce 
 **Introduction to Social Data Science**
 - BBB: chapter 1
 
+- Grimmer, Justin. ["We are all social scientists now: how big data, machine learning, and causal inference work together."](https://web.stanford.edu/~jgrimmer/bd_2.pdf) *PS: Political Science & Politics* 48.1 (2015): 80-83.
 - Buyalskaya, A., Gallo, M. and Camerer, C.F. 2021. ["The golden age of social science."](https://doi.org/10.1073/pnas.200292311) *Proceedings of the National Academy of Sciences* 118(5):
 
 **Git - a tool for storing and sharing code**
