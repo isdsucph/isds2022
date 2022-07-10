@@ -40,7 +40,10 @@ We introduce the course and provide an overview of logistics. We also introduce 
 **Introduction to Social Data Science**
 - BBB: chapter 1
 
-- Buyalskaya, A., Gallo, M. and Camerer, C.F. 2021. ["The golden age of social science."](https://doi.org/10.1073/pnas.200292311) *Proceedings of the National Academy of Sciences* 118(5):
+
+- Grimmer, Justin. ["We are all social scientists now: how big data, machine learning, and causal inference work together."](https://web.stanford.edu/~jgrimmer/bd_2.pdf) *PS: Political Science & Politics* 48.1 (2015): 80-83.
+
+- Buyalskaya, A., Gallo, M. and Camerer, C.F. 2021. ["The golden age of social science."](https://doi.org/10.1073/pnas.2002923118) *Proceedings of the National Academy of Sciences* 118(5):
 
 **Git - a tool for storing and sharing code**
 - Jones, Zachery. 2015. "[Git & Github tutorial](http://zmjones.com/git-github-tutorial/)".
@@ -63,8 +66,7 @@ We learn about data transformation and working with specific data types in panda
 
 #### Required reading
 
-- PDA: chapter 7 and sections 5.3, 11.1-11.2.
-- PML: chapter 4, section 'Handling categorical data'.
+- PDA: Chapter 5, Chapter 7: p. 213-215, 228-229, 236-245 and Chapter 11: sections 11.1-11.2.
 
 #### Inspirational reading `*`
 - Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
@@ -75,7 +77,7 @@ We learn about data transformation and working with specific data types in panda
 We round-off data structuring by learning two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA: chapters 8 and 10.
+- PDA: Chapter 7: p. 203 - 211, Chapters 8 and 10.
 
 #### Inspirational reading `*`
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
