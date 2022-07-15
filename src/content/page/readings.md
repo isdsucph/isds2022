@@ -103,7 +103,7 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 We start to leverage our python knowledge to make queries on the web. This allows us to pull data directly from Statistics Denmark's API.
 
 #### Required reading
-- PDA: sections 2.3 pp. 36-40, 3.3, 6.1 pp. 187-189, 6.3 and 7.3 pp. 227-229
+- PDA: section 2.3: pp. 36-38, section 3.3: pp. 77-80, section 6.1: pp. 187-189, section 6.3 and section 7.3: pp. 227-229
 - Gazarov, Petr. 2016. "[What is an API? In English, please.](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)"
 
 
