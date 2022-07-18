@@ -196,7 +196,7 @@ We explain the overfitting problem of modelling. We show one possible solution i
 - PML: chapter 4, the following sections:
   - Partitioning a dataset into separate training and test sets
   - Bringing features onto the same scale
-  - Selecting meaningful features
+  - Selecting meaningful features (up until p. 134)
 - PML: chapter 10, the following sections:
   - Introducing linear regression
   - Implementing an ordinary least squares linear regression model
