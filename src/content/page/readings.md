@@ -110,11 +110,11 @@ We start to leverage our python knowledge to make queries on the web. This allow
 
 ## Session 6: Scraping 1 - Introduction to web scraping
 
-We learn to create and collect datasets from the web. This means interacting with webpages and extracting information from them.
+We learn to create and collect data from the web. This means interacting with webpages and extracting information from them.
 
 #### Required readings
 
-- [An introduction to web scraping with Python](https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-a2601e8619e5)
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 
@@ -143,7 +143,7 @@ Here we develop our skills in parsing. I.e., processing the text we get from web
 
 #### Required readings
 
-- [An introduction to web scraping with Python](https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-a2601e8619e5)
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 
