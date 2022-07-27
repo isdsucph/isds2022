@@ -41,7 +41,7 @@ We introduce the course and provide an overview of logistics. We also introduce 
 - BBB: chapter 1
 
 - Grimmer, Justin. ["We are all social scientists now: how big data, machine learning, and causal inference work together."](https://web.stanford.edu/~jgrimmer/bd_2.pdf) *PS: Political Science & Politics* 48.1 (2015): 80-83.
-- Buyalskaya, A., Gallo, M. and Camerer, C.F. 2021. ["The golden age of social science."](https://doi.org/10.1073/pnas.200292311) *Proceedings of the National Academy of Sciences* 118(5):
+- Buyalskaya, A., Gallo, M. and Camerer, C.F. 2021. ["The golden age of social science."](https://www.pnas.org/doi/10.1073/pnas.2002923118) *Proceedings of the National Academy of Sciences* 118(5):
 
 **Git - a tool for storing and sharing code**
 - Jones, Zachery. 2015. "[Git & Github tutorial](http://zmjones.com/git-github-tutorial/)".
@@ -156,16 +156,13 @@ You will also learn about RegEx, which is a great tool to process raw text.
 
 - Introduction to Web Scraping using Selenium: [An introduction to Selenium in Python](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
 
-- Introduction to pattern matching using regex: [An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
+- Introduction to pattern matching using regex: [An introduction to regex in python](https://www.digitalocean.com/community/tutorials/an-introduction-to-regex-in-python). Blog.
 
 #### Inspirational reading `*`
 - [Most Commonly used techniques to Prevent Scraping:](https://medium.com/@betoayesa/using-the-content-as-an-anti-scrape-weapon-draft-9bb10cd30e5c)
 - [Advanced Web Scraping Tactics](https://www.pluralsight.com/guides/advanced-web-scraping-tactics-python-playbook)
 - [Scraping Sites That Use JavaScript and AJAX](https://oup-arc.com/protected/files/content/file/1505319833942-CH9---Scraping-Sites-that-Use-JavaScript-and-AJAX.pdf)
 - [Facebook Scraper 2020: How to Scrape Facebook Group with Python](https://www.bestproxyreviews.com/facebook-scraper/)
-
-
-
 
 
 ## Session 9: Ethics and Big Data Intro
