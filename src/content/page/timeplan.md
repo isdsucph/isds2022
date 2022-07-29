@@ -29,7 +29,6 @@ The complete schedule of sessions is listed below with title, lecturer and links
 | Aug 01 |                          9-11 | 1a. Course welcome + intro to git and markdown        |  ABN/TGC/HFB  | TBA                                                                                             |
 |        |                         11-12 | 1b. Meet group                                        |  TAs/TGC/HFB  |                                                                                                 |
 |        |                         13-16 | 2. Data Structuring 1                                 |   TGC & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                             |
 | Aug 02 |                          9-12 | 3. Data Structuring 2                                 |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 4. Plotting                                           |   TGC & TAs   | TBA                                                                                             |
 |        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                             |
@@ -48,7 +47,6 @@ The complete schedule of sessions is listed below with title, lecturer and links
 |        |                         16-17 | Office Hour                                           |      HFB      | TBA                                                                                             |
 | Aug 09 |                          9-12 | 10. ML Introduction                                   |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 11. Regression and Regularization                     |   TGC & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                             |
 |        |                         23:59 | <font color="green">Assignment 2 posted</font>        |      --       | TBA                                                                                             |
 | Aug 10 |                          9-12 | 12. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 13. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                             |
