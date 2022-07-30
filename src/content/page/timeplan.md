@@ -1,6 +1,6 @@
 ---
 title: Timeplan
-date: 2022-06-20
+date: 2022-07-30
 markup: mmark
 ---
 
@@ -31,30 +31,28 @@ The complete schedule of sessions is listed below with title, lecturer and links
 |        |                         13-16 | 2. Data Structuring 1                                 |   TGC & TAs   | TBA                                                                                             |
 | Aug 02 |                          9-12 | 3. Data Structuring 2                                 |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 4. Plotting                                           |   TGC & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                             |
+|        |                         16-17 | Office Hour                                           |      TGC      | [gs](https://docs.google.com/spreadsheets/d/1MxnS3LLsSzofpKdtOsFpCQLxREnurf7bnV8YvAu1q98/edit?usp=sharing)                                                                                             |
 |        |                         23:59 | <font color="green">Assignment 1 posted</font>        |      --       | TBA                                                                                             |
 | Aug 03 |                          9-12 | 5. Strings, Queries and APIs                          |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 6. Scraping 1                                         |   HFB & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      HFB      | TBA                                                                                             |
 | Aug 04 |                          9-12 | 7. Scraping 2                                         |   HFB & TAs   | TBA                                                                                             |
-|        |                         12-13 | Office Hour                                           |      HFB      | TBA                                                                                             |
 |        |                         13:59 | <font color="red">Fill in supervision sheet</font>    |      --       | TBA                                                                                             |
 |        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                             |
 | Aug 05 |                          9-12 | 9. Data Ethics                   | ABN & TAs  | TBA                                                                                             |
 |        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                             |
 | Aug 08 |                          9-12 | 8. Scraping 3                                         |   HFB & TAs   | TBA                                                                                             |
-|        |                         13-16 | Exam talk + TA help + Supervision                             |   TGC/HFB & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      HFB      | TBA                                                                                             |
+|        |                         13-16 | Exam talk + TA help + Supervision                             |   HFB & TAs   | TBA                                                                                             |
+|        |                         16-17 | Office Hour                                           |      HFB      | [gs](https://docs.google.com/spreadsheets/d/1MxnS3LLsSzofpKdtOsFpCQLxREnurf7bnV8YvAu1q98/edit?usp=sharing)                                                                                                      |
 | Aug 09 |                          9-12 | 10. ML Introduction                                   |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 11. Regression and Regularization                     |   TGC & TAs   | TBA                                                                                             |
 |        |                         23:59 | <font color="green">Assignment 2 posted</font>        |      --       | TBA                                                                                             |
 | Aug 10 |                          9-12 | 12. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                             |
 |        |                         13-16 | 13. Model Selection and Cross-validation              |   TGC & TAs   | TBA                                                                                             |
-|        |                         16-17 | Office Hour                                           |      TGC      | TBA                                                                                             |
+|        |                         16-17 | Office Hour                                           |      TGC      | [gs](https://docs.google.com/spreadsheets/d/1MxnS3LLsSzofpKdtOsFpCQLxREnurf7bnV8YvAu1q98/edit?usp=sharing)                                                                                                      |
 | Aug 11 |                          9-12 | 14. Text as Data                                      |   HFB & TAs   | TBA                                                                                             |
-|        |                         12-13 | Office Hour                                           |      HFB      | TBA                                                                                             |
+|        |                         12-13 | Office Hour                                           |      HFB      | [gs](https://docs.google.com/spreadsheets/d/1MxnS3LLsSzofpKdtOsFpCQLxREnurf7bnV8YvAu1q98/edit?usp=sharing)                                                                                                     |
 |        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                             |
-| Aug 12 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC/HFB & TAs | TBA                                                                                             |
+| Aug 12 |                          9-12 | Exam talk + TA help  + Supervision                    | TGC & TAs | TBA                                                                                             |
 |        |                         14-16 | TA help + supervision `*`                             |      TAs      | TBA                                                                                             |
 |        |                         23:59 | <font color="red">Assignment 2 hand-in</font>         |               |                                                                                                 |
 |        | ---------   Week 3  --------- |                                                       |               |                                                                                                 |
