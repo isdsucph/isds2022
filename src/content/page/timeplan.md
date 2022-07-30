@@ -58,6 +58,7 @@ The complete schedule of sessions is listed below with title, lecturer and links
 |        | ---------   Week 3  --------- |                                                       |               |                                                                                                 |
 | Aug 15 |                         20:00 | <font color="red">Exam project description due</font> |               |                                                                                                 |
 | Aug 16 |                         10-12 | *Supervision 3* `*`                                   |               |                                                                                                 |
+| Aug 23 |                         10:00 | <font color="red"> Hand-in Exam on Digital Exam </font> |               |                                                                                                 |
 `*` : optional participation
 
 #### Main lecturers
