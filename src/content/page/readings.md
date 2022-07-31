@@ -64,7 +64,7 @@ We learn about data transformation and working with specific data types in panda
 
 #### Required reading
 
-- PDA: Chapter 5, Chapter 7: p. 213-215, 228-229, 236-245 and Chapter 11: sections 11.1-11.2.
+- PDA: Chapter 5, Chapter 7: section 7.2 p. 213-215 (Replacing Values and Renaming Axis Indices), section 7.4: p. 227-229 (Stop at Regular Expressions), section 7.5 p. 236-245 (Categorical Data) and Chapter 11: sections 11.1-11.2.
 
 #### Inspirational reading `*`
 - Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
@@ -75,7 +75,7 @@ We learn about data transformation and working with specific data types in panda
 We round-off data structuring by learning two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA: Chapter 7: p. 203 - 211, Chapters 8 and 10.
+- PDA: Chapter section 7.1 + section 7.2 p. 210-211 (Removing Duplicates), Chapters 8 and 10.
 
 #### Inspirational reading `*`
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
@@ -103,7 +103,7 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 We start to leverage our python knowledge to make queries on the web. This allows us to pull data directly from Statistics Denmark's API.
 
 #### Required reading
-- PDA: section 2.3: pp. 36-38, section 3.3: pp. 77-80, section 6.1: pp. 187-189, section 6.3 and section 7.3: pp. 227-229
+- PDA: section 2.3 p. 36-38 (Strings), section 3.3: p. 77-80 (Stop at Bytes and Unicode with Files), section 6.1: p. 187-189 (JSON Data), section 6.3
 - Gazarov, Petr. 2016. "[What is an API? In English, please.](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)"
 
 
