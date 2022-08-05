@@ -250,12 +250,13 @@ We introduce the concept of **Text as Data**, and apply our newly acquired knowl
   - Preparing the IMDb movie review data for text processing
   - Introducing the bag-of-words model
   - Training a logistic regression model for document classification
+  - Topic modeling with Latent Dirichlet Allocation
 
 
 #### Inspirational readings `*`
 Gentzkow, M., Kelly, B.T. and Taddy, M., 2019. ["Text as data"](https://doi.org/10.1257/jel.20181020) *Journal of Economic Literature* 57(3).
   - Following sections:
-    - Applications
+    - 4. Applications
 
 Gorrell, Genevieve et al. “Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians.” ICWSM (2018). https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf
 
