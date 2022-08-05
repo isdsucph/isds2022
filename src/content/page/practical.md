@@ -59,7 +59,7 @@ The exam projects have a number of requirements that must be met, these are: req
     - 3 members, 15 pages;
     - 4 members, 18 pages.  
     - Note that 1 page (normalside) corresponds 2,400 and does not count figures, abstract, list of reference, frontpage, appendix.
-    - The report should contain your exam numbers and possibly your names (optional). The exam numbers (or names) MUST show who contributed with writing which parts of the report. At most 20 pct. of the report can be written shared. If you fail to provide this the submission of your project may get rejected!
+    - The report should contain your names. The names MUST show who contributed with writing which parts of the report. At most 20 pct. of the report can be written shared. If you fail to provide this the submission of your project may get rejected!
   - Grading will be based on the report but process but data collection, computations etc. should be well documented in the supporting Jupyter Notebook.
 
 
