@@ -215,7 +215,7 @@ We introduce cross validation to gauge overfitting and review the linear model.
 
 
 
-## Session 13: Non-linear ML and applications
+## Session 13: Performance Metrics, Non-linear ML and Perspectives 
 
 We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science.
 
