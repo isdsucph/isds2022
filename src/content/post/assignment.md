@@ -8,4 +8,4 @@ This post contain practical information related to each of the three assignments
 
 **Assignment 1:** Available August 3. Deadline August 5 @ 23.59
 
-**Assignment 2:** Available August 10. Deadline August 12 @ 23.59
+**Assignment 2:** Available August 9. Deadline August 12 @ 23.59
